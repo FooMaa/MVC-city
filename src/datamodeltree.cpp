@@ -1,4 +1,4 @@
-#include "datamodeltree.h"
+#include "headers/datamodeltree.h"
 
 DataModelTree::DataModelTree(QObject *parent) : QAbstractItemModel(parent)
 {

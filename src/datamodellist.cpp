@@ -1,4 +1,4 @@
-#include "datamodellist.h"
+#include "headers/datamodellist.h"
 
 DataModelList::DataModelList(QObject *parent): DataModelTree(parent)
 {

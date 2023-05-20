@@ -1,4 +1,4 @@
-#include "datamodeltable.h"
+#include "headers/datamodeltable.h"
 
 DataModelTable::DataModelTable(int rows, QObject *parent)
     : QAbstractTableModel(parent), row_count(rows)
